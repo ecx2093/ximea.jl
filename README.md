@@ -1,5 +1,4 @@
 # XIMEA.jl
-A Julia wrapper to the xiApi C interface for XIMEA cameras
 
 **This is a first attempt, non-functioning package**
 
